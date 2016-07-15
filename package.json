@@ -1,0 +1,26 @@
+{
+  "name": "electronChess",
+  "version": "0.0.1",
+  "description": "An Electron pgn viewer",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "Electron",
+    "Chess"
+  ],
+  "author": "watszo",
+  "license": "GPL3",
+  "bugs": {
+    "url": ""
+  },
+  "homepage": "",
+  "devDependencies": {
+    "electron-prebuilt": "^1.2.0"
+  }
+}
