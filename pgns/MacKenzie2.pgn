@@ -1,0 +1,95 @@
+[Event "London m5"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Mackenzie, George Henry"]
+[Black "Paulsen, Louis"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.Nc3 Na5 10.Bd3 Ne7 11.e5 dxe5 12.dxe5 O-O 13.Qc2 h6 14.Ba3 c5 15.Rad1 Bd7
+16.e6 fxe6 17.Bh7+ Kh8 18.Ne5 Nd5 19.Nxd5 exd5 20.Rxd5 Bf5 21.Rxd8 Bxc2 22.Rxf8+ Rxf8
+23.Bxc2  1-0
+[Event "London m5"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Paulsen, Louis"]
+[Black "Mackenzie, George Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C51"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.b4 Bxb4 5.c3 Bc5 6.O-O d6 7.d4 exd4 8.cxd4 Bb6
+9.Bb2 Nf6 10.d5 Na5 11.Bd3 O-O 12.Nc3 Bg4 13.Ne2 Bxf3 14.gxf3 c5 15.Qd2 c4
+16.Bc2 Rc8 17.Bc3 Rc5 18.Kh1 Ne8 19.Rg1 f6 20.Nf4 Nc7 21.Nh5 Rf7 22.Qh6 Qf8
+23.Ba4 Kh8 24.Bxf6  1-0
+[Event "London m5"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "?"]
+[White "Mackenzie, George Henry"]
+[Black "Paulsen, Louis"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C39"]
+
+1.e4 e5 2.f4 exf4 3.Nf3 g5 4.h4 g4 5.Ne5 Bg7 6.Nxg4 d5 7.exd5 Qe7+ 8.Kf2 Bd4+
+9.Kf3 h5 10.Bb5+ Kd8 11.Nf2 Bg4+ 12.Nxg4 hxg4+ 13.Kxg4 Nf6+ 14.Kh3 Rxh4+
+15.Kxh4 Ne4+ 16.Kg4 Nf2+ 17.Kh5 Qe5+ 18.Kh4 Qf6+ 19.Kh5 Qg6+ 20.Kh4 Bf6+  0-1
+[Event "London m3"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "1"]
+[White "MacDonnell, George Alcock"]
+[Black "Mackenzie, George Henry"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C54"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bc4 Bc5 4.O-O Nf6 5.d3 h6 6.c3 d6 7.h3 Bb6 8.Be3 Be6
+9.Nbd2 Qd7 10.Bxe6 fxe6 11.Nc4 Qf7 12.Nxb6 axb6 13.Nh2 g5 14.Ng4 Nh5 15.g3 O-O-O
+16.Kh1 Rdf8 17.Rg1 Rh7 18.Rg2 Qg6 19.a4 Rhf7 20.b4 Ng7 21.a5 b5 22.Qb1 h5
+23.Nh2 d5 24.a6 bxa6 25.Bc5 Rd8 26.Rxa6 Kd7 27.Qa2 dxe4 28.c4 Nb8 29.Ra5 exd3
+30.Rxb5 Ke8 31.Be3 Qe4 32.Nf1 Qf5 33.Kh2 Nd7 34.Qd2 Nf6 35.Qb2 Nd7 36.Nd2 Qg6
+37.g4 h4 38.c5 c6 39.Rb7 Nf6 40.Rxf7 Kxf7 41.Qxe5 Nd5 42.Bxg5 Rd7 43.Bxh4 Kg8
+44.f4 Kh7 45.Ne4 Rb7 46.Be1 Nxb4 47.Bxb4 Rxb4 48.Nf6+ Kh8 49.Ra2  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "2"]
+[White "Mackenzie, George Henry"]
+[Black "MacDonnell, George Alcock"]
+[Result "1-0"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C41"]
+
+1.e4 e5 2.Nf3 d6 3.d4 exd4 4.Nxd4 Nf6 5.Nc3 Be7 6.f4 O-O 7.Be2 c5 8.Nf3 Bg4
+9.h3 Bxf3 10.Bxf3 Qc7 11.O-O Nbd7 12.Be3 Rad8 13.Qe2 a6 14.a4 Rfe8 15.Rad1 h6
+16.Qf2 Bf8 17.Kh1 Nb6 18.g4 Qc8 19.Bc1 Nh7 20.h4 f6 21.Qg3 Be7 22.Be2 g6
+23.a5 Nd7 24.Bc4+ Kg7 25.Nd5 Qc6 26.Rde1 b5 27.axb6 Nxb6 28.Nxb6 Qxb6 29.b3 Ra8
+30.Bb2 Qd8 31.g5 hxg5 32.fxg5 Rh8 33.Rf4 Qd7 34.Rg1 Qe8 35.Rgf1 Rf8 36.h5 Ra7
+37.hxg6 Qxg6 38.gxf6+ Nxf6 39.Rg4 Rh8+ 40.Kg2 Rh6 41.Kf2 Kh7 42.Rxg6 Rxg6
+43.Rh1+ Kg7 44.Qh4 Kf8 45.Qh8+ Ng8 46.Rg1 Bg5 47.Ke2  1-0
+[Event "London m3"]
+[Site "London"]
+[Date "1862.??.??"]
+[Round "3"]
+[White "MacDonnell, George Alcock"]
+[Black "Mackenzie, George Henry"]
+[Result "0-1"]
+[WhiteElo ""]
+[BlackElo ""]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4 5.d4 d5 6.Bd3 Be7 7.c4 Be6 8.cxd5 Bxd5
+9.O-O O-O 10.Nc3 Nf6 11.Be3 Nc6 12.Ne5 Bd6 13.f4 Nb4 14.Bb1 Bc6 15.Nxc6 Nxc6
+16.Rf3 Qd7 17.Rh3 Ne7 18.Qf3 h6 19.f5 Rfe8 20.Bd3 c6 21.Kh1 Rad8 22.Rg1 Bb8
+23.Ne2 Qd5 24.Nc3 Qxf3 25.gxf3 Kf8 26.Rxh6 Neg8 27.Ne4 gxh6 28.Nxf6 Nxf6  0-1
